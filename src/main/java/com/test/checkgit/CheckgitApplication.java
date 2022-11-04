@@ -9,6 +9,7 @@ public class CheckgitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CheckgitApplication.class, args);
 		System.out.println("master");
+		System.out.println("bra");
 	}
 
 }
